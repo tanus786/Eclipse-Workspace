@@ -1,0 +1,3 @@
+INDEX VERSION 1.132
+C:\Users\tanus\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\935568407.index
+\MyProject\src\main\java
