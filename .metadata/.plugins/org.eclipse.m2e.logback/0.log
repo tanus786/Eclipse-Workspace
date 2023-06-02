@@ -549,3 +549,6 @@
 2023-06-02 21:24:50,175 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tanus\eclipse-workspace\ProjectWithMaven\src\main\resources
 2023-06-02 21:24:50,176 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-06-02 21:24:50,177 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tanus\eclipse-workspace\ProjectWithMaven\src\test\resources
+2023-06-02 21:29:44,128 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-02 21:29:45,050 [Worker-6: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-core:pom:6.2.3.Final has been relocated to org.hibernate.orm:hibernate-core:pom:6.2.3.Final
+2023-06-02 21:29:45,052 [Worker-6: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
