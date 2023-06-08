@@ -20,7 +20,6 @@
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-core</artifactId>
 			<version>6.2.3.Final</version>
-			<type>pom</type>
 		</dependency>
 		
 		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
