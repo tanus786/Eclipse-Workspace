@@ -7,8 +7,6 @@ public class Certificate {
 	private String course;
 	private String duration;
 	
-	
-
 	public String getCourse() {
 		return course;
 	}

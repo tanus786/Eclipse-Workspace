@@ -9,7 +9,6 @@ public class EmDemo {
 	@SuppressWarnings("deprecation")
 	public static void main(String[] args) {
 		SessionFactory factory = new Configuration().configure().buildSessionFactory();
-		
 		Student student1 = new Student();
 		student1.setId(100);
 		student1.setName("Updesh Pratap");
