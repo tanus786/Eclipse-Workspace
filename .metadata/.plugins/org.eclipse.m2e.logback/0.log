@@ -825,3 +825,42 @@
 2023-06-30 10:00:40,940 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tanus\eclipse-workspace\ProjectWithMaven\src\main\resources
 2023-06-30 10:00:40,941 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-06-30 10:00:40,942 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tanus\eclipse-workspace\ProjectWithMaven\src\test\resources
+2023-06-30 10:21:46,128 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-30 10:21:46,128 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tanus\eclipse-workspace\ProjectWithMaven\src\main\resources
+2023-06-30 10:21:46,132 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-30 10:21:46,132 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tanus\eclipse-workspace\ProjectWithMaven\src\test\resources
+2023-06-30 12:04:43,812 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-30 12:05:54,548 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-core:jar:6.2.3.Final has been relocated to org.hibernate.orm:hibernate-core:jar:6.2.3.Final
+2023-06-30 12:05:54,549 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2023-06-30 12:05:55,549 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-30 12:05:55,550 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tanus\eclipse-workspace\ProjectWithMaven\src\main\resources
+2023-06-30 12:05:55,555 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-30 12:05:55,556 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tanus\eclipse-workspace\ProjectWithMaven\src\test\resources
+2023-06-30 12:09:30,999 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-30 12:09:31,000 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tanus\eclipse-workspace\ProjectWithMaven\src\main\resources
+2023-06-30 12:09:31,002 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-30 12:09:31,003 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tanus\eclipse-workspace\ProjectWithMaven\src\test\resources
+2023-06-30 12:11:00,874 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-30 12:11:00,875 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tanus\eclipse-workspace\ProjectWithMaven\src\main\resources
+2023-06-30 12:11:00,879 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-30 12:11:00,879 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tanus\eclipse-workspace\ProjectWithMaven\src\test\resources
+2023-06-30 12:16:15,055 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-30 12:16:15,055 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tanus\eclipse-workspace\ProjectWithMaven\src\main\resources
+2023-06-30 12:16:15,059 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-30 12:16:15,059 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tanus\eclipse-workspace\ProjectWithMaven\src\test\resources
+2023-06-30 12:16:42,505 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-30 12:16:42,506 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tanus\eclipse-workspace\ProjectWithMaven\src\main\resources
+2023-06-30 12:16:42,509 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-30 12:16:42,510 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tanus\eclipse-workspace\ProjectWithMaven\src\test\resources
+2023-06-30 12:20:11,104 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-30 12:20:11,106 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tanus\eclipse-workspace\ProjectWithMaven\src\main\resources
+2023-06-30 12:20:11,108 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-30 12:20:11,108 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tanus\eclipse-workspace\ProjectWithMaven\src\test\resources
+2023-06-30 12:20:31,443 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-30 12:20:31,444 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tanus\eclipse-workspace\ProjectWithMaven\src\main\resources
+2023-06-30 12:20:31,447 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-30 12:20:31,447 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tanus\eclipse-workspace\ProjectWithMaven\src\test\resources
+2023-06-30 12:22:00,289 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-30 12:22:00,290 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tanus\eclipse-workspace\ProjectWithMaven\src\main\resources
+2023-06-30 12:22:00,293 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-30 12:22:00,293 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tanus\eclipse-workspace\ProjectWithMaven\src\test\resources

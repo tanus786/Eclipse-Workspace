@@ -12,8 +12,8 @@ public class FetchData {
 		SessionFactory factory = new Configuration().configure().buildSessionFactory();
 		Session session = factory.openSession();
 		//get from id
-		Student student = (Student)session.load(Student.class, 102);
-		System.out.println(student);
+//		Student student = (Student)session.load(Student.class, 102);
+//		System.out.println(student);
 		
 		Address address = (Address)session.get(Address.class, 2);
 		System.out.println(address.getStreet());

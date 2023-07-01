@@ -25,8 +25,6 @@
     <fullyQualifiedTypeName name="com.mysql.cj.xdevapi.SessionFactory"/>
     <fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
     <fullyQualifiedTypeName name="org.hibernate.type.TrueFalseConverter"/>
-    <fullyQualifiedTypeName name="com.tut.Student"/>
-    <fullyQualifiedTypeName name="org.hibernate.Session"/>
     <fullyQualifiedTypeName name="org.hibernate.Transaction"/>
     <fullyQualifiedTypeName name="javax.management.loading.PrivateClassLoader"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
@@ -46,5 +44,8 @@
     <fullyQualifiedTypeName name="java.io.FileInputStream"/>
     <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="com.tut.App"/>
+    <fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
+    <fullyQualifiedTypeName name="org.hibernate.Session"/>
+    <fullyQualifiedTypeName name="com.tut.Student"/>
     <fullyQualifiedTypeName name="com.tut.Address"/>
 </qualifiedTypeNameHistroy>
